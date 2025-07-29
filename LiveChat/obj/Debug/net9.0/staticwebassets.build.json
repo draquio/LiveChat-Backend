@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OEVJiiQUWF4PnHz5LU1IUWwcetjv7mEnOwI8T8wS3/o=",
+  "Hash": "/VftbkJcqoVddbNkM/WUapjzlU+lv7Hziggg0b2QP9M=",
   "Source": "LiveChat",
   "BasePath": "_content/LiveChat",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_09bb0d81d4504e6ea4c1af1fe791d56c.jpg",
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_210751af7d7545d79a784c165ca1ec55.jpg",
       "SourceId": "LiveChat",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
       "BasePath": "_content/LiveChat",
-      "RelativePath": "uploads/images/img_09bb0d81d4504e6ea4c1af1fe791d56c#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/images/img_210751af7d7545d79a784c165ca1ec55#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yclidvw6q7",
-      "Integrity": "XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=",
+      "Fingerprint": "1qrpaf7lmg",
+      "Integrity": "me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_09bb0d81d4504e6ea4c1af1fe791d56c.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_210751af7d7545d79a784c165ca1ec55.jpg"
     },
     {
-      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_da8a6adbb5d54b358681ebd477d1f0eb.jpg",
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_3e8ac1a63c754bdcb6620d2090af61bb.jpg",
       "SourceId": "LiveChat",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
       "BasePath": "_content/LiveChat",
-      "RelativePath": "uploads/images/img_da8a6adbb5d54b358681ebd477d1f0eb#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/images/img_3e8ac1a63c754bdcb6620d2090af61bb#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,19 +52,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yclidvw6q7",
-      "Integrity": "XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=",
+      "Fingerprint": "geqmiec7yo",
+      "Integrity": "2AYz3ZoSnP//wjKA9RelVLvbBTsIsJQxUegM/QYzGpE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_da8a6adbb5d54b358681ebd477d1f0eb.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_3e8ac1a63c754bdcb6620d2090af61bb.jpg"
     },
     {
-      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_f8af8b2c22d04db5b4b45d401cf56383.jpg",
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_4f090d56d28645a49d46e7898e1591c5.webp",
       "SourceId": "LiveChat",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
       "BasePath": "_content/LiveChat",
-      "RelativePath": "uploads/images/img_f8af8b2c22d04db5b4b45d401cf56383#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/images/img_4f090d56d28645a49d46e7898e1591c5#[.{fingerprint}]?.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,17 +73,185 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yclidvw6q7",
-      "Integrity": "XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=",
+      "Fingerprint": "om1u6x3e1j",
+      "Integrity": "wP2fZ1YYyYAY6rMc5Xgv/Hsvtanhs2ilHrVlIpeJJw4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_f8af8b2c22d04db5b4b45d401cf56383.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_4f090d56d28645a49d46e7898e1591c5.webp"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_640770bbb3a04be08b7ac872c1fe45d5.jpg",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_640770bbb3a04be08b7ac872c1fe45d5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pi3hpm00k",
+      "Integrity": "apYb79+URXwGVgWuz4ImctFNltH16r11k2V7NlVZjbE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_640770bbb3a04be08b7ac872c1fe45d5.jpg"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_8d66f6bad2574aa1b737d81018a0c7ac.webp",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_8d66f6bad2574aa1b737d81018a0c7ac#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7oiv431ut7",
+      "Integrity": "uY9f5WqE9NfErSCDOfpntAx1p7iHGbPltqaTbagYzkk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_8d66f6bad2574aa1b737d81018a0c7ac.webp"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_993eee7202894f5388896f92a41167ad.png",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_993eee7202894f5388896f92a41167ad#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zciv4d0loa",
+      "Integrity": "TXlNmKSTWZnGDxQpm8UvuaozW+/y99pAcZs3DyUZ+qs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_993eee7202894f5388896f92a41167ad.png"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_bad697763084475391384114c9c04ecb.jpg",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_bad697763084475391384114c9c04ecb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nr2ttjxloj",
+      "Integrity": "vZNZJCfesz20Y6GSSn4yLU9oLF5TkOovmEi0BLrK5Fc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_bad697763084475391384114c9c04ecb.jpg"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_be24672c8136422fbefad9f147d225fd.jpg",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_be24672c8136422fbefad9f147d225fd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1qrpaf7lmg",
+      "Integrity": "me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_be24672c8136422fbefad9f147d225fd.jpg"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_c3e0e00fd04845b098a1d74bddae4d74.webp",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_c3e0e00fd04845b098a1d74bddae4d74#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvf9kjopww",
+      "Integrity": "qjjfsrfH8ydWgbxAnxzJ+oVR26ffFn1NkNzJpBzBDDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_c3e0e00fd04845b098a1d74bddae4d74.webp"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_de58517cf92647f8a8a6a8f534a8d43b.jpg",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_de58517cf92647f8a8a6a8f534a8d43b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03o6mh3myu",
+      "Integrity": "bCmOewaZd4EiRG8Q4jbacmMsvMRtS5/j94wkoUsJP94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_de58517cf92647f8a8a6a8f534a8d43b.jpg"
+    },
+    {
+      "Identity": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_ec6307bb7d5442f18fcd5d1ee7cb1229.jpg",
+      "SourceId": "LiveChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\",
+      "BasePath": "_content/LiveChat",
+      "RelativePath": "uploads/images/img_ec6307bb7d5442f18fcd5d1ee7cb1229#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r1sbcxve3d",
+      "Integrity": "v4Js3a2PK/RVw7mFZY4YyDhbid6UDd96hjeFWCJpNt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\img_ec6307bb7d5442f18fcd5d1ee7cb1229.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "uploads/images/img_09bb0d81d4504e6ea4c1af1fe791d56c.jpg",
-      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_09bb0d81d4504e6ea4c1af1fe791d56c.jpg",
+      "Route": "uploads/images/img_210751af7d7545d79a784c165ca1ec55.1qrpaf7lmg.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_210751af7d7545d79a784c165ca1ec55.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -92,7 +260,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21327"
+          "Value": "115733"
         },
         {
           "Name": "Content-Type",
@@ -100,48 +268,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=\""
+          "Value": "\"me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 16:47:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/images/img_09bb0d81d4504e6ea4c1af1fe791d56c.yclidvw6q7.jpg",
-      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_09bb0d81d4504e6ea4c1af1fe791d56c.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "21327"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 16:47:01 GMT"
+          "Value": "Tue, 29 Jul 2025 20:59:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -151,21 +282,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yclidvw6q7"
+          "Value": "1qrpaf7lmg"
         },
         {
           "Name": "label",
-          "Value": "uploads/images/img_09bb0d81d4504e6ea4c1af1fe791d56c.jpg"
+          "Value": "uploads/images/img_210751af7d7545d79a784c165ca1ec55.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE="
+          "Value": "sha256-me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w="
         }
       ]
     },
     {
-      "Route": "uploads/images/img_da8a6adbb5d54b358681ebd477d1f0eb.jpg",
-      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_da8a6adbb5d54b358681ebd477d1f0eb.jpg",
+      "Route": "uploads/images/img_210751af7d7545d79a784c165ca1ec55.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_210751af7d7545d79a784c165ca1ec55.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -174,7 +305,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21327"
+          "Value": "115733"
         },
         {
           "Name": "Content-Type",
@@ -182,11 +313,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=\""
+          "Value": "\"me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 16:43:05 GMT"
+          "Value": "Tue, 29 Jul 2025 20:59:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -196,13 +327,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE="
+          "Value": "sha256-me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w="
         }
       ]
     },
     {
-      "Route": "uploads/images/img_da8a6adbb5d54b358681ebd477d1f0eb.yclidvw6q7.jpg",
-      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_da8a6adbb5d54b358681ebd477d1f0eb.jpg",
+      "Route": "uploads/images/img_3e8ac1a63c754bdcb6620d2090af61bb.geqmiec7yo.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_3e8ac1a63c754bdcb6620d2090af61bb.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -211,7 +342,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21327"
+          "Value": "132665"
         },
         {
           "Name": "Content-Type",
@@ -219,11 +350,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=\""
+          "Value": "\"2AYz3ZoSnP//wjKA9RelVLvbBTsIsJQxUegM/QYzGpE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 16:43:05 GMT"
+          "Value": "Tue, 29 Jul 2025 20:59:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -233,21 +364,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yclidvw6q7"
+          "Value": "geqmiec7yo"
         },
         {
           "Name": "label",
-          "Value": "uploads/images/img_da8a6adbb5d54b358681ebd477d1f0eb.jpg"
+          "Value": "uploads/images/img_3e8ac1a63c754bdcb6620d2090af61bb.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE="
+          "Value": "sha256-2AYz3ZoSnP//wjKA9RelVLvbBTsIsJQxUegM/QYzGpE="
         }
       ]
     },
     {
-      "Route": "uploads/images/img_f8af8b2c22d04db5b4b45d401cf56383.jpg",
-      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_f8af8b2c22d04db5b4b45d401cf56383.jpg",
+      "Route": "uploads/images/img_3e8ac1a63c754bdcb6620d2090af61bb.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_3e8ac1a63c754bdcb6620d2090af61bb.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -256,7 +387,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21327"
+          "Value": "132665"
         },
         {
           "Name": "Content-Type",
@@ -264,11 +395,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=\""
+          "Value": "\"2AYz3ZoSnP//wjKA9RelVLvbBTsIsJQxUegM/QYzGpE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 16:43:40 GMT"
+          "Value": "Tue, 29 Jul 2025 20:59:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -278,13 +409,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE="
+          "Value": "sha256-2AYz3ZoSnP//wjKA9RelVLvbBTsIsJQxUegM/QYzGpE="
         }
       ]
     },
     {
-      "Route": "uploads/images/img_f8af8b2c22d04db5b4b45d401cf56383.yclidvw6q7.jpg",
-      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_f8af8b2c22d04db5b4b45d401cf56383.jpg",
+      "Route": "uploads/images/img_4f090d56d28645a49d46e7898e1591c5.om1u6x3e1j.webp",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_4f090d56d28645a49d46e7898e1591c5.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -293,19 +424,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21327"
+          "Value": "203880"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/webp"
         },
         {
           "Name": "ETag",
-          "Value": "\"XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE=\""
+          "Value": "\"wP2fZ1YYyYAY6rMc5Xgv/Hsvtanhs2ilHrVlIpeJJw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Jul 2025 16:43:40 GMT"
+          "Value": "Tue, 29 Jul 2025 20:59:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -315,15 +446,708 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yclidvw6q7"
+          "Value": "om1u6x3e1j"
         },
         {
           "Name": "label",
-          "Value": "uploads/images/img_f8af8b2c22d04db5b4b45d401cf56383.jpg"
+          "Value": "uploads/images/img_4f090d56d28645a49d46e7898e1591c5.webp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XjrOFOgcc7fndvopS0djHO6xYjUgkwNP47QaBnmXZqE="
+          "Value": "sha256-wP2fZ1YYyYAY6rMc5Xgv/Hsvtanhs2ilHrVlIpeJJw4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_4f090d56d28645a49d46e7898e1591c5.webp",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_4f090d56d28645a49d46e7898e1591c5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wP2fZ1YYyYAY6rMc5Xgv/Hsvtanhs2ilHrVlIpeJJw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wP2fZ1YYyYAY6rMc5Xgv/Hsvtanhs2ilHrVlIpeJJw4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_640770bbb3a04be08b7ac872c1fe45d5.6pi3hpm00k.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_640770bbb3a04be08b7ac872c1fe45d5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"apYb79+URXwGVgWuz4ImctFNltH16r11k2V7NlVZjbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pi3hpm00k"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_640770bbb3a04be08b7ac872c1fe45d5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-apYb79+URXwGVgWuz4ImctFNltH16r11k2V7NlVZjbE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_640770bbb3a04be08b7ac872c1fe45d5.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_640770bbb3a04be08b7ac872c1fe45d5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"apYb79+URXwGVgWuz4ImctFNltH16r11k2V7NlVZjbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-apYb79+URXwGVgWuz4ImctFNltH16r11k2V7NlVZjbE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_8d66f6bad2574aa1b737d81018a0c7ac.7oiv431ut7.webp",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_8d66f6bad2574aa1b737d81018a0c7ac.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uY9f5WqE9NfErSCDOfpntAx1p7iHGbPltqaTbagYzkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7oiv431ut7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_8d66f6bad2574aa1b737d81018a0c7ac.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uY9f5WqE9NfErSCDOfpntAx1p7iHGbPltqaTbagYzkk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_8d66f6bad2574aa1b737d81018a0c7ac.webp",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_8d66f6bad2574aa1b737d81018a0c7ac.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uY9f5WqE9NfErSCDOfpntAx1p7iHGbPltqaTbagYzkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uY9f5WqE9NfErSCDOfpntAx1p7iHGbPltqaTbagYzkk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_993eee7202894f5388896f92a41167ad.png",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_993eee7202894f5388896f92a41167ad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXlNmKSTWZnGDxQpm8UvuaozW+/y99pAcZs3DyUZ+qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXlNmKSTWZnGDxQpm8UvuaozW+/y99pAcZs3DyUZ+qs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_993eee7202894f5388896f92a41167ad.zciv4d0loa.png",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_993eee7202894f5388896f92a41167ad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXlNmKSTWZnGDxQpm8UvuaozW+/y99pAcZs3DyUZ+qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zciv4d0loa"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_993eee7202894f5388896f92a41167ad.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXlNmKSTWZnGDxQpm8UvuaozW+/y99pAcZs3DyUZ+qs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_bad697763084475391384114c9c04ecb.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_bad697763084475391384114c9c04ecb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vZNZJCfesz20Y6GSSn4yLU9oLF5TkOovmEi0BLrK5Fc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 21:01:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vZNZJCfesz20Y6GSSn4yLU9oLF5TkOovmEi0BLrK5Fc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_bad697763084475391384114c9c04ecb.nr2ttjxloj.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_bad697763084475391384114c9c04ecb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vZNZJCfesz20Y6GSSn4yLU9oLF5TkOovmEi0BLrK5Fc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 21:01:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nr2ttjxloj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_bad697763084475391384114c9c04ecb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vZNZJCfesz20Y6GSSn4yLU9oLF5TkOovmEi0BLrK5Fc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_be24672c8136422fbefad9f147d225fd.1qrpaf7lmg.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_be24672c8136422fbefad9f147d225fd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1qrpaf7lmg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_be24672c8136422fbefad9f147d225fd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_be24672c8136422fbefad9f147d225fd.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_be24672c8136422fbefad9f147d225fd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-me48qTqPC4Q2Iqhe4gQn1zvTL+xtu52+ukJXHGDLi/w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_c3e0e00fd04845b098a1d74bddae4d74.uvf9kjopww.webp",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_c3e0e00fd04845b098a1d74bddae4d74.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qjjfsrfH8ydWgbxAnxzJ+oVR26ffFn1NkNzJpBzBDDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 21:00:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvf9kjopww"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_c3e0e00fd04845b098a1d74bddae4d74.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjjfsrfH8ydWgbxAnxzJ+oVR26ffFn1NkNzJpBzBDDg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_c3e0e00fd04845b098a1d74bddae4d74.webp",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_c3e0e00fd04845b098a1d74bddae4d74.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qjjfsrfH8ydWgbxAnxzJ+oVR26ffFn1NkNzJpBzBDDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 21:00:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjjfsrfH8ydWgbxAnxzJ+oVR26ffFn1NkNzJpBzBDDg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_de58517cf92647f8a8a6a8f534a8d43b.03o6mh3myu.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_de58517cf92647f8a8a6a8f534a8d43b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCmOewaZd4EiRG8Q4jbacmMsvMRtS5/j94wkoUsJP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03o6mh3myu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_de58517cf92647f8a8a6a8f534a8d43b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCmOewaZd4EiRG8Q4jbacmMsvMRtS5/j94wkoUsJP94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_de58517cf92647f8a8a6a8f534a8d43b.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_de58517cf92647f8a8a6a8f534a8d43b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCmOewaZd4EiRG8Q4jbacmMsvMRtS5/j94wkoUsJP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 20:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCmOewaZd4EiRG8Q4jbacmMsvMRtS5/j94wkoUsJP94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_ec6307bb7d5442f18fcd5d1ee7cb1229.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_ec6307bb7d5442f18fcd5d1ee7cb1229.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v4Js3a2PK/RVw7mFZY4YyDhbid6UDd96hjeFWCJpNt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 21:00:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v4Js3a2PK/RVw7mFZY4YyDhbid6UDd96hjeFWCJpNt4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/img_ec6307bb7d5442f18fcd5d1ee7cb1229.r1sbcxve3d.jpg",
+      "AssetFile": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\wwwroot\\uploads\\images\\img_ec6307bb7d5442f18fcd5d1ee7cb1229.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v4Js3a2PK/RVw7mFZY4YyDhbid6UDd96hjeFWCJpNt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Jul 2025 21:00:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1sbcxve3d"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/img_ec6307bb7d5442f18fcd5d1ee7cb1229.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v4Js3a2PK/RVw7mFZY4YyDhbid6UDd96hjeFWCJpNt4="
         }
       ]
     }

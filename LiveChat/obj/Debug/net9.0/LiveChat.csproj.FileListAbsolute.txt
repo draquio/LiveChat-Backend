@@ -166,8 +166,11 @@ D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\refint\LiveChat.dll
 D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\LiveChat.pdb
 D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\LiveChat.genruntimeconfig.cache
 D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\ref\LiveChat.dll
-D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\Net\LiveChat\LiveChat\LiveChat\bin\Debug\net9.0\LiveChat.staticwebassets.runtime.json
 D:\Net\LiveChat\LiveChat\LiveChat\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Net\LiveChat\LiveChat\LiveChat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Net\LiveChat\LiveChat\LiveChat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\LiveChat.sourcelink.json
+D:\Net\LiveChat\LiveChat\LiveChat\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Net\LiveChat\LiveChat\LiveChat\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Net\LiveChat\LiveChat\LiveChat\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

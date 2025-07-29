@@ -4,6 +4,7 @@ namespace LiveChat.Services.Interfaces
 {
     public interface IMessageService
     {
-        Task<Message> SaveGroupMessage(User sender, string content);
+        Task<Message> SaveGroupMessage(string sender, string content, MessageType type, Guid? senderId);
+        Task<Message> SavePrivateMessage(Guid roomId, string sender, string content, MessageType type, Guid? senderId);
     }
 }

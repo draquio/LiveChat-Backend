@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Net\\LiveChat\\LiveChat\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C33F22-2E18-470D-843C-EC7F20B4EE41}|LiveChat\\LiveChat.csproj|d:\\net\\livechat\\livechat\\livechat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C33F22-2E18-470D-843C-EC7F20B4EE41}|LiveChat\\LiveChat.csproj|solutionrelative:livechat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "LiveChat\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\Net\\LiveChat\\LiveChat\\LiveChat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "LiveChat\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T22:52:17.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

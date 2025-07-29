@@ -5,39 +5,34 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LiveChat.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository : GenericRepository<User>, IUserRepository
     {
-        private readonly AppDBContext _dbContext;
-
-        public UserRepository(AppDBContext dbContext)
+        public UserRepository(AppDBContext dbContext) : base(dbContext)
         {
-            _dbContext = dbContext;
-
         }
 
         public Task AddUser(User user)
         {
-            try
-            {
-                _dbContext.Users.Add(user);
-                return Task.CompletedTask;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
+            _dbContext.Users.Add(user);
+            return Task.CompletedTask;
+        }
+
+        public async Task<User?> GetByEmail(string email)
+        {
+            User? user = await _dbContext.Users.FirstOrDefaultAsync(u => u.Email == email);
+            return user;
+        }
+
+        public async Task<User?> GetByUsername(string username)
+        {
+            User? user = await _dbContext.Users.FirstOrDefaultAsync(u => u.Username == username);
+            return user;
         }
 
         public async Task<User?> GetGuestByUsername(string username)
         {
-            try
-            {
-                return await _dbContext.Users.FirstOrDefaultAsync(u => u.Username == username && u.IsGuest);
-            }
-            catch (Exception)
-            {
-                throw;
-            }
+            User? user = await _dbContext.Users.FirstOrDefaultAsync(u => u.Username == username);
+            return user;
         }
         public Task SaveChangesAsync() => _dbContext.SaveChangesAsync();
     }
